@@ -1,4 +1,20 @@
-# auto-doc-pbi
+# auto-doc-pbi: Your lifesaver in .pbit documentation. 
+
+<h1 align="center">
+  <a
+    target="_blank"
+  >
+    <img
+      align="center"
+      src="https://github.com/vinifborgess/auto-doc-pbi/blob/main/pbi-flow.png"
+      style="width:100%;"
+    />
+  </a>
+</h1>
+<p align="center">
+</p>
+
+
 
 This script automates the extraction of structured information from a Power BI report template (.pbit) file. It processes the model schema, identifies tables, columns, and relationships between data, and generates technical documentation in Markdown format for future reference.
 
